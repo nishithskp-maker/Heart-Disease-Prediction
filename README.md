@@ -32,3 +32,12 @@ This project predicts heart disease using patient medical data and machine learn
 - Seaborn
 - Scikit-learn
 - Google Colab
+
+## 📁 Folder Structure
+
+```text
+Heart-Disease-Prediction/
+├── Heart_Disease_Prediction.ipynb
+├── README.md
+└── LICENSE
+```
